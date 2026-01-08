@@ -50,7 +50,7 @@ The encryption process consists of **multiple rounds**, each strengthening secur
 - Efficient memory usage
 - Suitable for resource-constrained systems
 
-📂 **Source code available in `/software`**
+📂 **Source code available in `https://github.com/AhsanShadabPatel/Handheld-Gaming-Console/tree/main/code`**
 
 ---
 

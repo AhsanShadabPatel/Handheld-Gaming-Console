@@ -66,7 +66,7 @@ The encryption process consists of **multiple rounds**, each strengthening secur
 
 ## 📄 Documentation
 📘 **Detailed AES Report:**  
-[Advanced Encryption Standard Report](docs/REPORT__AES.pdf)
+https://github.com/AhsanShadabPatel/Handheld-Gaming-Console/tree/main/docs
 
 ---
 
